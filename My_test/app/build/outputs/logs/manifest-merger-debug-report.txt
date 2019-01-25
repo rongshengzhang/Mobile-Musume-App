@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/675b27dd3e8a7a59e2407f9397d8c3ef/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/lzy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8a1710b4173c3634514a61f63e30ab99/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0af914b1ca434976a95203fc620a2d8e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2dbe8af1fd98f17149d094a8d15e8f86/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8d95ff86f71db4cd30a7b9f05073f758/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e7b8d3782b1cd3c297a211473643dc90/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8f927b925d4341345bdc55984fdabb6e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7b6bd9efbb4d5b9011d6f7093d656941/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/47653defbcf4fc719e970b791096b899/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/bf84e7535045b0eee3180007ed539543/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2552b0699674541f64acfd4ada358c0e/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:8:5-24:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/675b27dd3e8a7a59e2407f9397d8c3ef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/675b27dd3e8a7a59e2407f9397d8c3ef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/lzy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8a1710b4173c3634514a61f63e30ab99/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/lzy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8a1710b4173c3634514a61f63e30ab99/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0af914b1ca434976a95203fc620a2d8e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0af914b1ca434976a95203fc620a2d8e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2dbe8af1fd98f17149d094a8d15e8f86/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2dbe8af1fd98f17149d094a8d15e8f86/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8d95ff86f71db4cd30a7b9f05073f758/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8d95ff86f71db4cd30a7b9f05073f758/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e7b8d3782b1cd3c297a211473643dc90/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e7b8d3782b1cd3c297a211473643dc90/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8f927b925d4341345bdc55984fdabb6e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8f927b925d4341345bdc55984fdabb6e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7b6bd9efbb4d5b9011d6f7093d656941/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7b6bd9efbb4d5b9011d6f7093d656941/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/47653defbcf4fc719e970b791096b899/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/47653defbcf4fc719e970b791096b899/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/bf84e7535045b0eee3180007ed539543/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/bf84e7535045b0eee3180007ed539543/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2552b0699674541f64acfd4ada358c0e/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2552b0699674541f64acfd4ada358c0e/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:11:9-39
+	android:roundIcon
+		ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.lzy.my_test.MainActivity
+ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.lzy.my_test.RegisterActivity
+ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:22:9-54
+	android:name
+		ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:22:19-51
+activity#com.example.lzy.my_test.SucceedActivity
+ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:23:9-62
+	android:name
+		ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml:23:19-50
+uses-sdk
+INJECTED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/675b27dd3e8a7a59e2407f9397d8c3ef/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/675b27dd3e8a7a59e2407f9397d8c3ef/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/lzy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8a1710b4173c3634514a61f63e30ab99/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/lzy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8a1710b4173c3634514a61f63e30ab99/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0af914b1ca434976a95203fc620a2d8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0af914b1ca434976a95203fc620a2d8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2dbe8af1fd98f17149d094a8d15e8f86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2dbe8af1fd98f17149d094a8d15e8f86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8d95ff86f71db4cd30a7b9f05073f758/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8d95ff86f71db4cd30a7b9f05073f758/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e7b8d3782b1cd3c297a211473643dc90/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e7b8d3782b1cd3c297a211473643dc90/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8f927b925d4341345bdc55984fdabb6e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8f927b925d4341345bdc55984fdabb6e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7b6bd9efbb4d5b9011d6f7093d656941/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7b6bd9efbb4d5b9011d6f7093d656941/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/47653defbcf4fc719e970b791096b899/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/47653defbcf4fc719e970b791096b899/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/bf84e7535045b0eee3180007ed539543/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/bf84e7535045b0eee3180007ed539543/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2552b0699674541f64acfd4ada358c0e/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2552b0699674541f64acfd4ada358c0e/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/675b27dd3e8a7a59e2407f9397d8c3ef/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/675b27dd3e8a7a59e2407f9397d8c3ef/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0af914b1ca434976a95203fc620a2d8e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0af914b1ca434976a95203fc620a2d8e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2dbe8af1fd98f17149d094a8d15e8f86/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2dbe8af1fd98f17149d094a8d15e8f86/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8d95ff86f71db4cd30a7b9f05073f758/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8d95ff86f71db4cd30a7b9f05073f758/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e7b8d3782b1cd3c297a211473643dc90/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e7b8d3782b1cd3c297a211473643dc90/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8f927b925d4341345bdc55984fdabb6e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8f927b925d4341345bdc55984fdabb6e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7b6bd9efbb4d5b9011d6f7093d656941/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7b6bd9efbb4d5b9011d6f7093d656941/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/47653defbcf4fc719e970b791096b899/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/47653defbcf4fc719e970b791096b899/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/bf84e7535045b0eee3180007ed539543/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/bf84e7535045b0eee3180007ed539543/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/675b27dd3e8a7a59e2407f9397d8c3ef/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/675b27dd3e8a7a59e2407f9397d8c3ef/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2552b0699674541f64acfd4ada358c0e/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2552b0699674541f64acfd4ada358c0e/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/lzy/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2552b0699674541f64acfd4ada358c0e/AndroidManifest.xml:26:13-58

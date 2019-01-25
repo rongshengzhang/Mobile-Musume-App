@@ -1,0 +1,4 @@
+#Sun Apr 01 12:09:47 EDT 2018
+base.0=/Users/lzy/Desktop/duke文件/ECE651/garbage/ECE651_Invalid_read_of_size_8/My_test/app/build/intermediates/transforms/dexMerger/debug/26
+path.0=classes.dex
+renamed.0=classes.dex
